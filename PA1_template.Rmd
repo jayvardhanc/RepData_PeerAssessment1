@@ -63,7 +63,7 @@ steps_diff<-sum(stepsbyDayi$steps)-sum(stepsbyDay$steps)
 ```
 The imputed mean and median are **`r Mean_imputed`** and **`r Median_imputed`**  
 Mean and median differences are **`r diff1`** and **`r diff2`**  
-Total difference:**`r steps_diff`**
+Total difference in steps:**`r steps_diff`**
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
